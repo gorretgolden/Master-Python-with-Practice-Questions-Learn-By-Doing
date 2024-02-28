@@ -1,8 +1,6 @@
 #QUESTION 1
 # A Surveyor needs to prepare maps and adjust the coordinates of new location i.e. UTAMU
-# New Campus parking yard y
-# pi vie uw
-# He usually uses this formula. ()
+# New Campus parking yard. He usually uses this formula. ()
 # Now he needs you design a python program to simplify his work in calculating the value
 # of d.
 # Ensure all values of Xi, X2, Y1, Y2 are entered from the keyboard. Values Xi =50, X2=20,
