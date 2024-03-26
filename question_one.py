@@ -8,7 +8,6 @@
 
 
 
-
 #Importing required modules
 import math
 
@@ -44,3 +43,33 @@ def approachTwo(X1,X2,Y1,Y2):
 approachTwo(x_one,x_two,y_one,y_two)
 
 #NB: Decide to use one approach
+
+
+
+def evenOrOddNumber():
+
+    number = int(input("Enter a number: "))
+    #print(type(number))
+
+    if number % 2 == 0:
+        #even number
+        result = int((number/2) + 1)
+        print("Number: Even "  + "\nResult: " +  str(result)) 
+    else:
+        #odd number
+        result = int(number ** 2)
+        print("Number: Odd Result: " +  str(result)) 
+        
+
+    #print(result,type(result))    
+   # print("Result: " +  str(result))   
+        
+
+ 
+            
+   
+
+  
+
+
+evenOrOddNumber()
