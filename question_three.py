@@ -1,6 +1,6 @@
-Using a function and variables entered from the keyboard. Write a  program that allows a user to input a number.
-If the input is an even number, returns the input divided by two plus 1. 
-If the input is an odd number, returns the square of the input
+# Using a function and variables entered from the keyboard. Write a  program that allows a user to input a number.
+# If the input is an even number, returns the input divided by two plus 1. 
+# If the input is an odd number, returns the square of the input
 
  
 def evenOrOddNumber():
