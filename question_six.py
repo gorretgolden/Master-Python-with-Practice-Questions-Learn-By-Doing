@@ -9,7 +9,7 @@ def sumOfListItems():
 
     for number in numbers:
         sum += number
-    print("The sum of items in the list is: " + str(sum))  
+    print("The sum of items in the list is:  " + str(sum))  
 
     
 
